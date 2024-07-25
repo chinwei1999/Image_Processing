@@ -3,6 +3,7 @@
 Course: Image Processing  
 Time: 2020 Fall  
 Teacher: Prof. Pei-Chen Lo  
+Language: Matlab  
 
 Project1: Use transformation function to make image more contrasty  
 Project2: Discrete Fourier transform  
